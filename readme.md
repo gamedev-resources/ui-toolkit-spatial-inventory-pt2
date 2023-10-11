@@ -1,5 +1,5 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/code-the-grid-based-inventory-system-grid-series-part-2/).
-> 
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
+
 # Introduction
 
 There are many different styles of inventory systems and in this tutorial series you will learn how to create a grid-based system that requires the player to sort items by size to carry as many as possible. This part of the series builds on the design from part 1 by instantiating a visual to represent items held and adding the ability to organize them. On the surface, this logic seems simple – just drag/drop. However, scenarios that prevent an item from being placed make the logic more complicated.
